@@ -1,0 +1,7 @@
+E:\Spring\MicroService_Architechture\microservices\product-service\src\main\java\com\example\productservice\ProductServiceApplication.java
+E:\Spring\MicroService_Architechture\microservices\product-service\src\main\java\com\example\productservice\controller\ProductController.java
+E:\Spring\MicroService_Architechture\microservices\product-service\src\main\java\com\example\productservice\service\ProductService.java
+E:\Spring\MicroService_Architechture\microservices\product-service\src\main\java\com\example\productservice\model\Product.java
+E:\Spring\MicroService_Architechture\microservices\product-service\src\main\java\com\example\productservice\repository\ProductRepository.java
+E:\Spring\MicroService_Architechture\microservices\product-service\src\main\java\com\example\productservice\dto\ProductRequest.java
+E:\Spring\MicroService_Architechture\microservices\product-service\src\main\java\com\example\productservice\dto\ProductResponse.java
